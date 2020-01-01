@@ -206,8 +206,8 @@ i {
 }
 @media screen and (max-width: 1024px) {
   img.placementimg {
-    width: 7%;
-    height: 7%;
+    width: 200px;
+    height: 230px;
     padding-left: 10px;
     padding-right: 10px;
   }
