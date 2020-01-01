@@ -252,10 +252,14 @@ i {
 .testimonial {
   width: 50%;
   background-size: 100% auto;
+  background-repeat: no-repeat;
+
 }
 .school {
   width: 50%;
   background-size: 100% auto;
+    background-repeat: no-repeat;
+
 }
 
 .avatar {
@@ -281,5 +285,19 @@ i {
   }
   .testimonial {
     height: 270px;
+  }   
+}
+@media only screen and (min-device-width: 400px) and (max-device-width: 610px) {
+  img.placementimg {
+    width: 10%;
+    height: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
   }
+  img.course {
+    width: 200px;
+    height: 100px;
+    margin-left: 23%;
+  }
+  /* STYLES GO HERE */
 }
