@@ -57,7 +57,7 @@ section {
 }
 @media screen and (max-width: 1024px) {
   img.responsive {
-    width: 330px;
+    width: 100%;
   }
 }
 @media screen and (min-width: 1025px) {
