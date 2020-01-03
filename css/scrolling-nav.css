@@ -289,14 +289,14 @@ i {
 }
 @media only screen and (max-width: 600px) {
   img.placementimg {
-    width: 10%;
-    height: 10%;
+    width: 35%;
+    height: 30%;
     padding-left: 10px;
     padding-right: 10px;
   }
   img.course {
     width: 200px;
     height: 100px;
-    margin-left: 30%;
+    margin-left: 25%;
   }
 }
